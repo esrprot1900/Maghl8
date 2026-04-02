@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "title": "منشور اختبار فوري",
+    "type": "text",
+    "content": "✅ هذا منشور اختبار تلقائي\n\nالنظام يعمل بنجاح\n\n📎 رابط الملف:\nhttps://drive.google.com/file/d/1omIp1NU3Mtu8HT082uOmVy-BCjysu8h1/view\n\n📱 تيليجرام: https://t.me/errorthem4\n👥 فيسبوك: https://www.facebook.com/khaledmohsultan",
+    "time": "2026-04-02 03:00",
+    "published": false,
+    "channels": ["telegram"],
+    "email_subject": "اختبار النظام"
+  }
+]
